@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c5dc4d75-db2f-4895-9925-b138a407eaa2" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c5dc4d75-db2f-4895-9925-b138a407eaa2" />
 
 Manuel Felipe Porto de Oliveira
 
