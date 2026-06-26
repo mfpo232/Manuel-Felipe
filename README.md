@@ -1,6 +1,5 @@
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c5dc4d75-db2f-4895-9925-b138a407eaa2" />
 
-
 Manuel Felipe Porto de Oliveira
 
 estudante de phyton
@@ -21,5 +20,6 @@ numero de telefone : 86 99830-2713,
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2a4535b5-e9b0-455e-b103-252e234fb012" />
 
 instagran : https://www.instagram.com/mfpo232.
+
 tem como objetvo ser capaz de criar sites profissionais e jogos,
 
