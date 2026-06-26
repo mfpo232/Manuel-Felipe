@@ -1,4 +1,7 @@
-Manuel Felipe.
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c5dc4d75-db2f-4895-9925-b138a407eaa2" />
+
+
+Manuel Felipe Porto de Oliveira
 
 estudante de phyton
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c2be6a32-2639-436d-b32a-c5de8ef135a1" />
